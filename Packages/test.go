@@ -11,4 +11,6 @@ func main() {
 	fmt.Println("Random number:", GetRandom())
 	printName()
 	fmt.Println(returnName())
+	fmt.Println(squareRoot32())
+	fmt.Println(squareRoot64())
 }
